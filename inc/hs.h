@@ -1,0 +1,1 @@
+#define hs_api _stdcall
